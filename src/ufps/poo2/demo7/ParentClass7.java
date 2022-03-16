@@ -6,5 +6,9 @@ public class ParentClass7 {
 		System.out.println("I am in Parent class");
 		return i;
 	}
+	
+	public void algo() {
+		
+	}
 
 }

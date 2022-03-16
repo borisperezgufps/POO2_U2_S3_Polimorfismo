@@ -3,6 +3,7 @@ package ufps.poo2.demo6;
 public class ChildClass extends ParentClass {
 	
 	// Overriding method
+	@Override
 	public void showMe() {
 		System.out.println("Inside ChildClass.showMe().");
 	}
